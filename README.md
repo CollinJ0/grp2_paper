@@ -1,4 +1,4 @@
-# The Great Repertoire Project
+# The Great Repertoire Project v2
 
 This repository contains code and data used in our study of the temporal dynamics of the circulating human antibody repertoire. Briefly, we investigated the dynamics of the human antibody repertoire over time using high-throughput sequencing of antibody transcripts in the peripheral blood. Our study uncovers a profound and previously underappreciated level of repertoire drift of the naïve B cell repertoire within individuals. Despite stable overall repertoire size and diversity, fine-level composition undergoes nearly complete turnover after four years. We observe a delicate interplay between the continuous replacement of naïve B cells and the imprint of immunological exposures, revealing a nuanced model of overall repertoire development. Additionally, a notable feature is the identification of persistent public clonotypes suggesting potentially convergent antibody responses. These findings deepen our understanding of immune system dynamics and offer important insights toward the optimization of vaccine and immunotherapy strategies.
 
