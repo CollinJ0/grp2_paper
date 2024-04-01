@@ -30,7 +30,7 @@ Raw and processed datasets from each subject can be downloaded using the followi
     - FASTQC:  [**pre-trimming**](https://burtonlab.s3.amazonaws.com/Collin/Recalled_Leukopaks/Raw_Fastqs/D103_2021_AHMTFMDRXY_pre-trimmed-fastqc.tar.gz)
     - Annotated data: [**consensus AIRR TSVs**](https://burtonlab.s3.amazonaws.com/Collin/Recalled_Leukopaks/UID18_Consensus_AIRR_Format/D103_2021_UID18_consensus_AIRR_format_03032023.tar.gz)
 
-For each subject, there are a total of 18 samples: 3 technical replicates of each of 6 biological replicates. Biological replicates refer to different aliquots of peripheral blood monomuclear cells (**PBMCs**), from which total RNA was separately isolated and processed. Thus, sequences or clonotypes found in multiple biological replicates are assumed to have independently occurred in different cells. Technical relicates refer to independent library preparations using the same aliquot of PBMC-derived RNA. In each of the above datasets, samples 1-6 are biological replicates. Samples 7-12 and 13-18 are technical replicates of samples 1-6.
+For each timepoint, there are a total of 18 samples: 3 technical replicates of each of 6 biological replicates. Biological replicates refer to different aliquots of peripheral blood monomuclear cells (**PBMCs**), from which total RNA was separately isolated and processed. Thus, sequences or clonotypes found in multiple biological replicates are assumed to have independently occurred in different cells. Technical relicates refer to independent library preparations using the same aliquot of PBMC-derived RNA. In each of the above datasets, samples 1-6 are biological replicates. Samples 7-12 and 13-18 are technical replicates of samples 1-6.
 
 ## Requirements
 
